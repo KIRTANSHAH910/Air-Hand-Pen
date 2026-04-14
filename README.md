@@ -1,10 +1,10 @@
-# 🖐️ Air Hand Pen
+#  Air Hand Pen
 
 A gesture-based virtual drawing tool using **MediaPipe Hands** that lets you draw in the air using your hand via webcam.
 
 ---
 
-## ✨ Features
+##  Features
 
 - Real-time hand tracking
 - Smooth drawing using index finger
@@ -14,7 +14,7 @@ A gesture-based virtual drawing tool using **MediaPipe Hands** that lets you dra
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Allow camera access
 2. Hold **SHIFT key** to start drawing
@@ -23,7 +23,7 @@ A gesture-based virtual drawing tool using **MediaPipe Hands** that lets you dra
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - HTML, CSS, JavaScript
 - MediaPipe Hands
@@ -31,13 +31,13 @@ A gesture-based virtual drawing tool using **MediaPipe Hands** that lets you dra
 
 ---
 
-## 💡 Idea
+##  Idea
 
 This project explores human-computer interaction using gestures, enabling users to draw without physical contact.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Multi-color support
 - Gesture-based erase
@@ -46,10 +46,10 @@ This project explores human-computer interaction using gestures, enabling users 
 
 ---
 
-## 🙌 Credits
+##  Credits
 
 Built using MediaPipe by Google
 
 ---
 
-✨ Feel free to fork and experiment!
+ Feel free to fork and experiment!
